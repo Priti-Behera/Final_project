@@ -2,7 +2,7 @@
   "name": "fassignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Priti-Behera.github.io/Final_assignment/",
+  "homepage": "https://Priti-Behera.github.io/Final_project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
